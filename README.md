@@ -9,6 +9,15 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > A local-first intelligent observability proof of concept combining Grafana, Prometheus, Python, MCP, SQLite, Ollama and Gemma 3 4B.
+>
+> ## 🚀 Project Highlights
+
+- 🤖 **Local AI analysis** using Ollama + Gemma 3 4B without external AI APIs
+- 🔎 **Context-aware observability** through Grafana + MCP integration
+- 📊 **Time-series interpretation** instead of simple metric visualization
+- 🧠 **AIOps foundation** for intelligent monitoring workflows
+- 🔒 **Local-first architecture** focused on privacy and control
+- 🐍 **Python-based AI orchestration** connecting metrics, context and LLM reasoning
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
