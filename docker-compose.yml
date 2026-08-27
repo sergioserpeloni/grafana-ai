@@ -1,0 +1,46 @@
+services:
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana-ai
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_INSTALL_PLUGINS=marcusolsson-json-datasource
+    volumes:
+      - grafana-data:/var/lib/grafana
+    networks:
+      - grafana-network
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus-ai
+    restart: unless-stopped
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    networks:
+      - grafana-network
+
+  metrics-exporter:
+    build:
+      context: ./exporter
+    container_name: metrics-exporter
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    networks:
+      grafana-network:
+        aliases:
+          - metrics-exporter
+
+networks:
+  grafana-network:
+    driver: bridge
+
+volumes:
+  grafana-data:
+  prometheus-data:

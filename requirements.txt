@@ -1,0 +1,6 @@
+# Grafana AI Observability
+# Python 3.12+
+
+requests==2.34.2
+mcp==1.29.1
+matplotlib==3.11.1
