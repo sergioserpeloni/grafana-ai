@@ -2,7 +2,7 @@
 
 > A local-first intelligent observability proof of concept combining Grafana, Prometheus, Python, MCP, SQLite, Ollama and Gemma 3 4B.
 
-[Português](#português) · [English](#english)
+[🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
 ---
 
