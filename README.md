@@ -359,6 +359,8 @@ Replace the simulated exporter with production metrics, externalize all operatio
 
 ![AI Observability Report](docs/ai-analysis-report.png)
 
+AI Generated Observability Report to English
+
 EXECUTIVE SUMMARY
 The time series shows a predominantly upward pattern, with a strong increasing trend in value over time. There is a clear upward trend, with peaks and troughs, but no significant anomalies. Stability is noticeable across large portions of the series, with relatively small variations alongside a gradual and consistent increase in value.
 
