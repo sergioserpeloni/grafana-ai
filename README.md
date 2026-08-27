@@ -19,11 +19,9 @@
 - 🔒 **Local-first architecture** focused on privacy and control
 - 🐍 **Python-based AI orchestration** connecting metrics, context and LLM reasoning
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english)
-
 ---
 
-## Português
+
 ---
 
 ## Architecture
@@ -59,6 +57,9 @@ Key concepts demonstrated:
 ✅ Infrastructure analytics
 
 ---
+[🇧🇷 Português](#português) | [🇺🇸 English](#english)
+---
+## Português
 
 ### Visão geral
 
