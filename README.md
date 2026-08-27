@@ -24,6 +24,13 @@
 ---
 
 ## Português
+---
+
+## Architecture
+
+![Grafana AI Observability Architecture](docs/architecture.png)
+
+---
 
 ### Visão geral
 
