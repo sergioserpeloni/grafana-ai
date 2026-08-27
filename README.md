@@ -28,7 +28,7 @@
 
 ## Architecture
 
-![Grafana AI Observability Architecture](docs/architecture.png)
+![Grafana AI Observability Architecture](docs/architecture.jpeg)
 
 ---
 
