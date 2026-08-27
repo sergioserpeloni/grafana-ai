@@ -1,5 +1,13 @@
 # Grafana AI Observability
 
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
+![Docker](https://img.shields.io/badge/Docker-Compose-blue)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-orange)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-red)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > A local-first intelligent observability proof of concept combining Grafana, Prometheus, Python, MCP, SQLite, Ollama and Gemma 3 4B.
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
