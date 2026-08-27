@@ -263,6 +263,19 @@ O detector agrupa pontos próximos em eventos e considera anômalo um valor `>= 
 
 ---
 
+## Screenshots
+
+### Grafana Dashboard
+
+![Grafana Dashboard](docs/grafana-dashboard.png)
+
+### AI Generated Observability Report
+
+![AI Observability Report](docs/ai-analysis-report.png)
+
+
+---
+
 ## English
 
 ### Overview
