@@ -349,6 +349,18 @@ Replace the simulated exporter with production metrics, externalize all operatio
 
 ---
 
+## Screenshots
+
+### Grafana Dashboard
+
+![Grafana Dashboard](docs/grafana-dashboard.png)
+
+### AI Generated Observability Report
+
+![AI Observability Report](docs/ai-analysis-report.png)
+
+---
+
 ## License
 
 This project is a Proof of Concept. Add the license appropriate to your intended distribution before publishing it.
