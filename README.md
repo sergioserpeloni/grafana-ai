@@ -32,6 +32,34 @@
 
 ---
 
+# ⭐ Featured AI Engineering Project
+
+## Grafana AI Observability Platform
+
+An end-to-end AIOps proof of concept that combines:
+
+- 📊 Real-time observability with Grafana and Prometheus
+- 🐍 Python-based data collection and analysis
+- 🔌 Model Context Protocol (MCP) integration
+- 🤖 Local Large Language Model inference using Ollama + Gemma 3 4B
+- 🧠 AI-generated operational insights from real monitoring data
+
+This project demonstrates how traditional observability platforms can evolve into intelligent systems capable of interpreting infrastructure behavior.
+
+The AI does not receive artificial examples. It retrieves real dashboard context, analyzes time-series data, identifies patterns and generates operational reports.
+
+Key concepts demonstrated:
+
+✅ AI Engineering  
+✅ AIOps  
+✅ Observability Intelligence  
+✅ Local LLM deployment  
+✅ MCP-based AI integrations  
+✅ Time-series analysis  
+✅ Infrastructure analytics
+
+---
+
 ### Visão geral
 
 O **Grafana AI Observability** é uma Proof of Concept (PoC) de observabilidade assistida por IA local. Ele coleta uma métrica de utilização simulada, armazena e exibe sua série temporal e permite que uma IA consulte dados reais de um painel Grafana através do **Model Context Protocol (MCP)**.
