@@ -108,7 +108,6 @@ AI API
 Ollama + Gemma 3 4B
         ↓
 AI Observability Report
----
 
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
