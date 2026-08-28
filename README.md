@@ -111,6 +111,54 @@ AI Observability Report
 ```
 ---
 
+# 🧠 Technical Highlights
+
+This project demonstrates the integration of traditional observability with modern AI engineering concepts.
+
+## Real Data Context
+
+The AI model does not analyze manually created examples.
+
+The analysis pipeline retrieves real time-series information from Grafana dashboards through the Model Context Protocol (MCP).
+
+## Local AI Inference
+
+The project uses a local Large Language Model:
+
+- Ollama
+- Gemma 3 4B
+- Local inference environment
+
+No external AI API is required for the analysis process.
+
+## MCP Integration
+
+The Model Context Protocol layer provides controlled access between the AI system and observability data.
+
+The AI can request contextual information instead of receiving static datasets.
+
+## Time-Series Intelligence
+
+The system analyzes:
+
+- Trends
+- Peaks
+- Drops
+- Oscillations
+- Behavior changes
+- Potential anomalies
+
+## Security by Design
+
+Sensitive information is protected through:
+
+- Environment variables
+- Minimal Grafana token permissions
+- Local execution
+- No hardcoded secrets
+
+---
+
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 ---
 ## Português
